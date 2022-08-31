@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268093446953",
+    "project_id": "ichive-5d02a",
+    "storage_bucket": "ichive-5d02a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268093446953:android:7ac5804d9c22387fefb538",
+        "android_client_info": {
+          "package_name": "com.example.ichive_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268093446953-ce5848eeg07b4s50c1148g1vl8selrb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBje5DCW6EkWEIQjI0Rv54snLG5BcJJHU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268093446953-ce5848eeg07b4s50c1148g1vl8selrb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
